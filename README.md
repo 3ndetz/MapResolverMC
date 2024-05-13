@@ -10,6 +10,7 @@ pinned: false
 license: mit
 ---
 Demo: https://huggingface.co/spaces/3ndetz/mc_map_resolver
+
 Решаем капчу карт MC / Resolving old captcha from block game
 
 
