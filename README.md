@@ -9,10 +9,11 @@ app_file: app.py
 pinned: false
 license: mit
 ---
-Demo: https://huggingface.co/spaces/3ndetz/mc_map_resolver
+(HF readme header)
 
-Решаем капчу карт MC /
-Resolving old captcha from block game
+Demo -> [Hugging Face Spaces](https://huggingface.co/spaces/3ndetz/mc_map_resolver)
+
+Решаем капчу карт MC / Resolving old captcha from block game
 
 Precision: 70-80%
 
